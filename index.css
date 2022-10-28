@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div {
+    display: grid;
+}
+
+a {
+    padding-top: 20px;
+}
